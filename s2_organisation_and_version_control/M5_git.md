@@ -28,6 +28,8 @@ This is the reason that **version control** exist. Simply stated, it is a way to
 
 For a full explanation please see this [page](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
 
+For a longer tutorial, see this [page](https://gitbookdown.dallasdatascience.com/)
+
 Secondly, it is important to note that Github is not git! Github is the dominating player when it comes to
 hosting repositories but that does not mean that they are the only one providing free repository hosting (see [bitbucket](https://bitbucket.org/product/ or [gitlab](https://about.gitlab.com/)) for some other examples).
 
